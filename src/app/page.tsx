@@ -17,7 +17,7 @@ export default function Home() {
     reader.readAsDataURL(file);
   };
   return (
-    <div className="min-h-screen flex items-center justify-center w-full overflow-hidden">
+    <div className="bg-backimage min-h-screen flex items-center justify-center w-full overflow-hidden">
       <title>Image Upload and Predict</title>
       <main className="bg-white text-black p-8 rounded shadow-md">
         <h1 className="text-2xl mb-4">Upload an Image for Prediction</h1>

@@ -22,7 +22,7 @@ export default function RootLayout({
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       </Head>
-      <body className={cn("bg-backimage", inter.className)}>{children}</body>
+      <body className={cn("bg-backimage bg-black", inter.className)}>{children}</body>
     </html>
   );
 }
