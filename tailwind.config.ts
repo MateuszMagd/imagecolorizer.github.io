@@ -19,7 +19,7 @@ const config = {
     },
     extend: {
       backgroundImage: {
-        'backimage': "url('public/background.jpg')",
+        'backimage': "url('/background.jpg')",
       },
       colors: {
         border: "hsl(var(--border))",
