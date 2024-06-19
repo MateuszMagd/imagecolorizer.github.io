@@ -2,6 +2,12 @@
   @tailwind components;
   @tailwind utilities;
 
+  .bg-backimage {
+    background-image: url('../assets/background.jpg');
+    background-size: cover; /* Dostosowuje tło, aby wypełniało kontener */
+    background-position: center; /* Ustawia tło na środku kontenera */
+    /* Dodatkowe stylizacje, jak np. repeat, można dodać według potrzeb */
+  }
   @layer base {
     :root {
       --background: 0 0% 100%;
