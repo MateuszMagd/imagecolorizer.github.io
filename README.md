@@ -1,3 +1,9 @@
+!! WARNING !! 
+
+DOSENT WORK FULLY BECOUSE OF PROBLEM WITH FRAMEWORK THAT MAKE MODEL COMPATIBLE WITH TENSERFLOWJS!!!!!
+
+This should by a side for competence project!
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
